@@ -1,0 +1,10 @@
+export { Layout } from "./Layout"
+export { Navbar } from "./Navbar"
+
+export { Hero } from "./Hero"
+export { About } from "./About"
+export { Molecular } from "./Molecular"
+export { Ingredients } from "./Ingredients"
+export { Offer } from "./Offer"
+export { Caviar } from "./Caviar"
+export { Footer } from "./Footer"
