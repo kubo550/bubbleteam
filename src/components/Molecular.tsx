@@ -5,7 +5,7 @@ export const Molecular = () => {
       <img
         src={bg}
         alt='background'
-        className='static z-0 object-cover min-w-full'
+        className='static z-0 object-cover min-w-full min-h-full'
       />
       <div className='z-50 absolute top-1/4 pl-16'>
         <h3 className='z-50 font-bold text-5xl text-gray-50  mb-12'>
